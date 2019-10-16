@@ -1,0 +1,8 @@
+<linker>
+  <assembly fullname="RemoteAssistControl_HL2_Unity" preserve="all"/>
+  <assembly fullname="AzureService" preserve="all"/>
+  <assembly fullname="Newtonsoft.Json" preserve="all"/>
+  <assembly fullname="System" preserve="all" />
+  <assembly fullname="System.Core" preserve="all" />
+  <assembly fullname="websocket-sharp" preserve="all" />
+</linker>
